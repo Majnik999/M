@@ -1,2 +1,2 @@
 # M
-M is my latest project [visit](m.pythonanywhere.com)
+M (stands for majnik) is my latest project [visit](majnik.pythonanywhere.com)
